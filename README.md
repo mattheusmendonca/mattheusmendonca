@@ -1,5 +1,14 @@
-### Hi there 👋
-
+<p align = "center">
+  <a href = "https://github.com/mattheusmendonca">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=mattheusmendonca&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />   
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattheusmendonca&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=6"/>
+  </a>
+</p>
+<p align = "center">
+  <a href = "https://www.instagram.com/matheuzmend/">
+    <img height="20em" src="https://image.flaticon.com/icons/png/512/174/174855.png" />
+  </a>
+</p>
 <!--
 **mattheusmendonca/mattheusmendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
