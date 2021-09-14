@@ -5,7 +5,7 @@
   </a>
 </p>
 
-Hii, my name is Matheus Mendonça, and I'm a Computer Engineering student at the Federal University of Paraíba. I'm also part
+Hii, my name is Matheus Mendonça, and I'm a Computer Engineering student at the Federal University of Paraiba. I'm also part
 of the Robotics and Automation Society (RAS) of the university, with the intention of always looking for innovations in the field of Robotics. Mobile iOS development intern fuze.cc. I've been trying to improve myself and grow each day more within the IT world, always aiming at the vast breadth of creation and development. I hope this space contributes to you in some way. Welcome!
 
 
