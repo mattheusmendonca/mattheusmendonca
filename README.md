@@ -5,8 +5,7 @@
   </a>
 </p>
 
-Hi, my name is Matheus Mendonça
-I'm a Computer Engineering student at the Federal University of Paraiba. 
+Hi, my name is Matheus Mendonça, and I'm a Computer Engineering student at the Federal University of Paraiba. 
 I'm also a Lavid/Fuze iOS developer.
 I've been trying to improve myself and grow each day more within the IT world, always aiming at the vast breadth of creation and development. I hope this space contributes to you in some way. 
 Welcomee, guys!
